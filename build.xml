@@ -19,9 +19,9 @@
 	
     
     <!-- RETRIEVE DEV 13 -->
-    <target name="retrieveDev13">
+    <target name="retrieveEADEV">
       <!-- Retrieve the contents into another directory -->
-      <sf:retrieve username="${sf.usernameDev13}" password="${sf.passwordDev13}" sessionId="${sf.sessionId}" serverurl="${sf.serverurlDev13}" maxPoll="${sf.maxPoll}" retrieveTarget="dev13pkg" unpackaged="dev13pkg/package.xml"/>
+      <sf:retrieve username="${sf.usernameEADEV}" password="${sf.passwordEADEV}" sessionId="${sf.sessionId}" serverurl="${sf.serverurlEADEV}" maxPoll="${sf.maxPoll}" retrieveTarget="devpkg" unpackaged="devpkg/package.xml"/>
     </target>
 
 
