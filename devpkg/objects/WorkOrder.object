@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Date_Required_Mains__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Date &amp; Time Required (Mains Installation)</inlineHelpText>
+        <label>Date Required (Mains)</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>DateTime</type>
+    </fields>
+</CustomObject>
