@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Order.Gas_Asset_Value__c</members>
-        <members>WorkOrder.Date_Required_Mains__c</members>
+        <members>WorkOrder.Test_Field_Addition__c</members>
         <name>CustomField</name>
     </types>
     <types>
